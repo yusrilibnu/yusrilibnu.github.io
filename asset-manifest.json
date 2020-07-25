@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yusril_portfolio/static/css/main.5f361e03.chunk.css",
+    "main.js": "/yusril_portfolio/static/js/main.77ef9363.chunk.js",
+    "main.js.map": "/yusril_portfolio/static/js/main.77ef9363.chunk.js.map",
+    "runtime-main.js": "/yusril_portfolio/static/js/runtime-main.963d110a.js",
+    "runtime-main.js.map": "/yusril_portfolio/static/js/runtime-main.963d110a.js.map",
+    "static/js/2.ca9fa377.chunk.js": "/yusril_portfolio/static/js/2.ca9fa377.chunk.js",
+    "static/js/2.ca9fa377.chunk.js.map": "/yusril_portfolio/static/js/2.ca9fa377.chunk.js.map",
+    "index.html": "/yusril_portfolio/index.html",
+    "precache-manifest.d88492578be83bc02d7beb87922f1973.js": "/yusril_portfolio/precache-manifest.d88492578be83bc02d7beb87922f1973.js",
+    "service-worker.js": "/yusril_portfolio/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/yusril_portfolio/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ca9fa377.chunk.js.LICENSE.txt": "/yusril_portfolio/static/js/2.ca9fa377.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/yusril_portfolio/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.963d110a.js",
+    "static/js/2.ca9fa377.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.77ef9363.chunk.js"
+  ]
+}
